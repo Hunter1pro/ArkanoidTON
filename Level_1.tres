@@ -1,0 +1,41 @@
+[gd_resource type="Resource" script_class="LevelData" load_steps=2 format=3 uid="uid://clh57e1x18cqy"]
+
+[ext_resource type="Script" path="res://Scripts/levelData.gd" id="1_c3gbv"]
+
+[resource]
+script = ExtResource("1_c3gbv")
+Id = 1
+levelData = {
+345885: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+346055: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+346225: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+346395: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+432285: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+432455: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+432625: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+432795: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+518685: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+518855: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+519025: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+519195: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+605085: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+605255: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+605425: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+,
+605595: Object(RefCounted,"script":Resource("res://Scripts/blockData.gd"))
+
+}
